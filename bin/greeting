@@ -11,4 +11,4 @@ if name.empty?
     greeting
 end
 
-greeting name, tester
+greeting name tester
