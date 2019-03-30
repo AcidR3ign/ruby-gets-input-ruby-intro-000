@@ -10,4 +10,4 @@ if name.empty?
     greeting
 end
 
-greeting(name)
+greeting name
